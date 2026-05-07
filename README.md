@@ -1,7 +1,10 @@
 # RomanEduard
 <br>
-```bash
-> one
 ```
-[!TIP]
-one two
+one
+```
+```
+git status
+git add
+git commit
+```
