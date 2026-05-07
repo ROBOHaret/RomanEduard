@@ -12,4 +12,4 @@ Every hat you wear is part of this colorful thing called life, like so many hats
 > Old fish
 > New fish
 ---
-<img src="https://github.com/ROBOHaret/RomanEduard/blob/main/fish.jpg" style="display: block; margin-left: auto; margin-right: auto;" alt="Fish" align= "center" width=350px>
+<img src="https://github.com/ROBOHaret/RomanEduard/blob/main/fish.jpg" style="display: block; margin-left: auto; margin-right: auto;" alt="Fish" align="center" width=350px>
