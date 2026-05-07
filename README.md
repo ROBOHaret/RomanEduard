@@ -4,3 +4,5 @@
 > one
 > two
 ```
+[!TIP]
+one two
