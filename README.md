@@ -11,4 +11,5 @@ Every hat you wear is part of this colorful thing called life, like so many hats
 > [!TIP]
 > Old fish
 > New fish
-
+---
+<img src="https://github.com/karinzaa/JunctionKanshi/blob/main/images/JunctionKanshiLogoOriginal.png" style="display: block; margin-left: auto; margin-right: auto; width: 350px;">
