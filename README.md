@@ -8,5 +8,5 @@ Every hat you wear is part of this colorful thing called life, like so many hats
 > red fish
 ```
 ---
-[!TIP]
-Hello
+> [!TIP]
+> one
