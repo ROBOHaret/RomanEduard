@@ -4,8 +4,8 @@ Every hat you wear is part of this colorful thing called life, like so many hats
 ```md
 > 1 fish
 > 2 fish
-% blue fish
-> red fish
+- blue fish
++ red fish
 ```
 ---
 > [!TIP]
